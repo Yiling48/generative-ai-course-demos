@@ -1,0 +1,21 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# API / local secrets
+*.key
+.env.*
+
+# Local RAG data and vector stores
+uploaded_docs/
+faiss_db/
+*.zip
+
+# Generated model artifacts
+outputs/
+models/
