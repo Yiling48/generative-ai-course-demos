@@ -1,0 +1,15 @@
+openai
+gradio
+aisuite[all]
+langchain
+langchain-community
+langchain-text-splitters
+pypdf
+python-docx
+sentence-transformers
+faiss-cpu
+diffusers
+transformers
+accelerate
+safetensors
+torch
